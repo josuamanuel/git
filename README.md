@@ -14,21 +14,3 @@ git commit -a -m 'third commit in first-feature-branch'
 git commit -a -m 'fourth commit in first-feature-branch'
 git push --set-upstream origin first-feature-branch
 git push
-After that I went to github and did a pull request to merge first-feature-branc to main
-Then merged
-Next step, I added a tag release in github
-following by going to the terminal and
-git pull
-move to main: git checkout main
-delete feature branch
-git branch -d first-feature-branch
-created and move to a second-feautre-branch
-git checkout -b second-feature-branch
-added all this text from line 17 to 30
-git commit -am 'fith commit in second-feature-branch'
-git push --set-upstream origin second-feature-branch
-
-A normal cycle develop->develop->PR(main<-develop)
-Continue with work
-and more work
-and more...
