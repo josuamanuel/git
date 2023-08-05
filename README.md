@@ -8,3 +8,6 @@ Next changes will be part of the commits in the local first-feature-branch. end 
 Editing an already newline from first-feature-branch.
 git add .
 git commit -m 'Editing an... and commit'
+This will be in the second commit... I need to add
+git commit -a -m 'second commit in first-feature-branch'
+git push
