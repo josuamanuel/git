@@ -10,4 +10,6 @@ git add .
 git commit -m 'Editing an... and commit'
 This will be in the second commit... I need to add
 git commit -a -m 'second commit in first-feature-branch'
+git commit -a -m 'third commit in first-feature-branch'
+git push --set-upstream origin first-feature-branch
 git push
