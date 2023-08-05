@@ -29,3 +29,4 @@ git commit -am 'fith commit in second-feature-branch'
 git push --set-upstream origin second-feature-branch
 A normal cycle develop->develop->PR(main<-develop)
 Continue with work
+and more work
